@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Get your vin
 
-You can use the [editor on GitHub](https://github.com/chan3111/get-your-vin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the supporting website for get your vin. Currently this is under development, here are the features included with the application. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Allows for scanning your VIN barcode off of a car to easily digitize your VIN number.
 
-### Markdown
+SCAN YOUR VIN
+Provides a vin scanner which will automatically scan your vin barcode and fetch the vin number out of it to be sent to your email.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+STOCK NUMBER SUPPORT
+Allows you to enter a stock number to be entered into your system for easier management.
 
-```markdown
-Syntax highlighted code block
+CAR IMAGES
+Allows you to take as many pictures as you want to add to the data sent to your email. The images will be sent as attachments.
 
-# Header 1
-## Header 2
-### Header 3
+ADDS EFFICIENCY
+Add more efficiency when checking cars into dealerships by digitizing the information you need and sending it to your email so it is all in one easily accessible place.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chan3111/get-your-vin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions, comments or concerns. Contact me [here](mailto:chandlernewmanreed@gmail.com)
